@@ -1,4 +1,4 @@
-# VPC Peering Project
+# VPC Peering Project 🌐
 
 [![AWS](https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=white&labelColor=232F3E&color=FF9900)](https://aws.amazon.com/) 
 [![AWS VPC](https://img.shields.io/badge/AWS_VPC-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=0052CC&color=232F3E)](https://aws.amazon.com/vpc/) 
