@@ -82,5 +82,6 @@ Special thanks to [NextWork Community](https://link.nextwork.org/app?utm_source=
 ---
 
 ## Author
-**Hassan Gachoka** [LinkedIn](https://linkedin.com/in/gachokahassan)
+**Hassan Gachoka** 
+[LinkedIn](https://linkedin.com/in/gachokahassan)
 
