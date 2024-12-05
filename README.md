@@ -77,7 +77,7 @@ This project successfully demonstrated VPC peering, with instances in separate V
 ---
 
 ## Community and Acknowledgment
-Special thanks to [NextWork.org](https://link.nextwork.org/app?utm_source=app&utm_medium=nav&utm_campaign=referral) and mentor **Natasha Ong** for their valuable guidance and insights.
+Special thanks to [NextWork Community](https://link.nextwork.org/app?utm_source=app&utm_medium=nav&utm_campaign=referral) and **Natasha Ong** ([LinkedIn](https://www.linkedin.com/in/natasha-ong)) for their valuable guidance and insights.
 
 ---
 
