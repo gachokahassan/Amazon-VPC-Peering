@@ -1,5 +1,11 @@
 # VPC Peering Project
 
+[![AWS](https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=white&labelColor=232F3E&color=FF9900)](https://aws.amazon.com/) 
+[![AWS VPC](https://img.shields.io/badge/AWS_VPC-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=0052CC&color=232F3E)](https://aws.amazon.com/vpc/) 
+[![AWS EC2](https://img.shields.io/badge/AWS_EC2-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=FF9900&color=2C5282)](https://aws.amazon.com/ec2/) 
+[![AWS Route Table](https://img.shields.io/badge/AWS_Route_Table-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=232F3E&color=569A31)](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html)
+
+
 ## Overview
 This project demonstrates the creation and configuration of **Amazon VPC Peering**, enabling secure communication between two isolated networks within AWS. The project focuses on VPC setup, peering connections, routing, and connectivity testing, showcasing AWS's networking capabilities for scalable cloud solutions.
 
@@ -76,6 +82,5 @@ Special thanks to [NextWork.org](https://link.nextwork.org/app?utm_source=app&ut
 ---
 
 ## Author
-**Hassan Gachoka**  
-[LinkedIn](https://linkedin.com/in/gachokahassan)
-*Helping businesses thrive with advanced cloud solutions, network security, and streamlined workflows | AWS, Cybersecurity, ClickUp Certified*
+**Hassan Gachoka** [LinkedIn](https://linkedin.com/in/gachokahassan)
+
