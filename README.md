@@ -35,7 +35,7 @@ Amazon Virtual Private Cloud (VPC) provides a customizable and isolated network 
 - **Created VPCs:** Configured VPC1 (`10.1.0.0/16`) and VPC2 (`10.2.0.0/16`) with public subnets.
 - **Deployed EC2 Instances:** Launched one instance in each VPC and configured appropriate SSH access.
 
-*VPC and subnet creation overview, including CIDR blocks and subnet associations.*
+*VPC setup overview.*
 ![Ping](./Images/vpc-diagram.png)
 
 ---
@@ -44,7 +44,7 @@ Amazon Virtual Private Cloud (VPC) provides a customizable and isolated network 
 - **Peering Request:** Established peering between VPC1 (Requester) and VPC2 (Accepter).
 - **Route Table Updates:** Configured route tables to direct cross-VPC traffic via the peering connection.
 
-*Route table configuration showcasing traffic rules for VPC1 and VPC2.*
+*Peering connection settings*
 ![Data Flow](./Images/peering-settings.png)
 
 ---
